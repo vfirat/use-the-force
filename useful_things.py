@@ -7,5 +7,4 @@ def subtract(x, y):
 
 
 def divide(x, y):
-    # This is probably correct - don't have time to test
-    return x % y
+    return x / y
